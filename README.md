@@ -1,8 +1,8 @@
 # Project-Week_3_Data-Preparation
 CLEANING DATA IN FILE EXEL: "PRIMARY EDUCATION'
--Find the data from here:'https://docs.google.com/spreadsheets/d/17pXJPT5r40ikuTU2sLbr2Q970r-u4rz2/edit#gid=1754530601'
--Project Description: 
-The goal of this project is to combine everything I have learned about data wrangling, cleaning, and manipulation with Pandas a dataset of real data.
+
+- Find the data from here:'https://docs.google.com/spreadsheets/d/17pXJPT5r40ikuTU2sLbr2Q970r-u4rz2/edit#gid=1754530601'
+- Project Description: The goal of this project is to combine everything I have learned about data wrangling, cleaning, and manipulation with Pandas a dataset of real data.
 - Import the data using Pandas in Jupiter notebook
 - Analysist the problems in the data: missing data, wrong data, data inconsistency, outliers, duplicates etc
 - Apply the different cleaning and manipulation techniques with Produce Python code( pandas, DataFrame, sum, replace,loc, value_counts,unique...etc.)
